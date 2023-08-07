@@ -27,7 +27,7 @@ def get_birthdays_per_week(users):
 
 test_users = [
     {'name': 'Bill', 'birthday': datetime(2023, 8, 8)},
-    {'name': 'Tom', 'birthday': datetime(2023, 8, 8)},
+    {'name': 'Tom', 'birthday': datetime(2023, 8, 7)},
     {'name': 'Jill', 'birthday': datetime(2023, 8, 9)},
     {'name': 'Kim', 'birthday': datetime(2023, 8, 10)},
     {'name': 'Jan', 'birthday': datetime(2023, 8, 12)},
